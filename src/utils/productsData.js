@@ -36,7 +36,7 @@ const productsData = [
         "image": {
             "id": 290,
             "product_id": 85,
-            "src": "https://cdn11.bigcommerce.com/s-p1xcugzp89/products/85/images/290/woodcuttingboard.jpg?c=1"
+            "src": "https://d2x02matzb08hy.cloudfront.net/img/home_decor/hero_image/781222069/Untitled_design__36_.jpg"
         }
     },
     {
@@ -50,7 +50,7 @@ const productsData = [
         "image": {
             "id": 300,
             "product_id": 90,
-            "src": "https://cdn11.bigcommerce.com/s-p1xcugzp89/products/90/images/300/ceramicvase.jpg?c=1"
+            "src": "https://m.media-amazon.com/images/I/61FRJtr04+L._AC_UF894,1000_QL80_.jpg"
         }
     },
     {
@@ -63,7 +63,7 @@ const productsData = [
         "image": {
             "id": 310,
             "product_id": 95,
-            "src": "https://cdn11.bigcommerce.com/s-p1xcugzp89/products/95/images/310/throwblanket.jpg?c=1"
+            "src": "https://m.media-amazon.com/images/I/9182yhbmOUL.jpg"
         }
     },
     {
@@ -76,7 +76,60 @@ const productsData = [
         "image": {
             "id": 320,
             "product_id": 100,
-            "src": "https://cdn11.bigcommerce.com/s-p1xcugzp89/products/100/images/320/leatherjournal.jpg?c=1"
+            "src": "https://images-cdn.ubuy.co.in/636517935e213a0ea35d3043-leather-journal-lined-notebook.jpg"
+        }
+    },
+    {
+        "id": 105,
+        "title": "Handmade Ceramic Mug",
+        "variants": [
+            { "id": 140, "product_id": 105, "title": "Standard", "price": "25" },
+            { "id": 141, "product_id": 105, "title": "Large", "price": "30" }
+        ],
+        "image": {
+            "id": 330,
+            "product_id": 105,
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GdjFd4iVSRhVC2vP8xh1LL7ukTp1bfbSoA&s"
+        }
+    },
+    {
+        "id": 110,
+        "title": "Woolen Throw Pillow",
+        "variants": [
+            { "id": 150, "product_id": 110, "title": "Red", "price": "40" },
+            { "id": 151, "product_id": 110, "title": "Blue", "price": "40" },
+            { "id": 152, "product_id": 110, "title": "Green", "price": "40" }
+        ],
+        "image": {
+            "id": 340,
+            "product_id": 110,
+            "src": "https://5.imimg.com/data5/BZ/OS/EA/SELLER-1903773/woolen-handmade-throw-pillows-500x500.jpg"
+        }
+    },
+    {
+        "id": 115,
+        "title": "Eco-Friendly Yoga Mat",
+        "variants": [
+            { "id": 160, "product_id": 115, "title": "Standard", "price": "55" },
+            { "id": 161, "product_id": 115, "title": "Extra Thick", "price": "70" }
+        ],
+        "image": {
+            "id": 350,
+            "product_id": 115,
+            "src": "https://m.media-amazon.com/images/I/61U9zaxaY2L._AC_UF1000,1000_QL80_.jpg"
+        }
+    },
+    {
+        "id": 120,
+        "title": "Stylish Desk Lamp",
+        "variants": [
+            { "id": 170, "product_id": 120, "title": "Black", "price": "65" },
+            { "id": 171, "product_id": 120, "title": "White", "price": "65" }
+        ],
+        "image": {
+            "id": 360,
+            "product_id": 120,
+            "src": "https://m.media-amazon.com/images/I/61r9G8yzTCL._AC_UF1000,1000_QL80_.jpg"
         }
     }
 ];
